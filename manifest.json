@@ -1,0 +1,17 @@
+{
+    "name": "Catalogo Videos",
+    "short_name": "PWA",
+    "description": "App de videos",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#0096c7",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "Imagenes/Fondo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
